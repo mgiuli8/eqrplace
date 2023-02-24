@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@thirdweb-dev/auth": "^3.0.3",
+    "ethers": "^5.7.2"
+  }
+}
